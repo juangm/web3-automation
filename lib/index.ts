@@ -4,3 +4,4 @@ export { BnbBscHandler } from './binance/bnbSmartChain';
 export { UsdtHandler } from './ethereum/ERC20';
 export { EthHandler } from './ethereum/ethereum';
 export { HederaHandler } from './hedera/hedera';
+export { AvaxHandler } from './avalanche/avax';
